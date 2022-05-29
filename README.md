@@ -59,15 +59,15 @@ The creation of this JavaScript Game is part of the Udemy course ["The Complete 
 # Chrome LightHouse Audit
 
 - Desktop:
-  <img src="dist/img/pig-game-desktop-LightHouse-Audit.jpg" />
+  <img src="dist/img/pig-game-desktop-LightHouse-Audit.png" />
 
 - Mobile:
-  <img src="dist/img/pig-game-mobile-LightHouse-Audit.jpg" />
+  <img src="dist/img/pig-game-mobile-LightHouse-Audit.png" />
 
 # PageSpeed Insights Results
 
 - Desktop:
-  <img src="dist/img/pig-game-PageSpeed-Insights-desktop.jpg" />
+  <img src="dist/img/pig-game-PageSpeed-Insights-desktop.png" />
 
 - Mobile:
-  <img src="dist/img/pig-game-PageSpeed-Insights-mobile.jpg" />
+  <img src="dist/img/pig-game-PageSpeed-Insights-mobile.png" />
