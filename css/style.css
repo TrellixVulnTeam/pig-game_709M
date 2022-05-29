@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -64,13 +64,13 @@ main {
     main .player .score {
       font-size: 8rem;
       font-weight: 300;
-      color: #c7365f;
+      color: #a02c4c;
       margin-bottom: auto; }
       @media screen and (max-width: 768px) {
         main .player .score {
           font-size: 4rem; } }
     main .player .current {
-      background-color: #c7365f;
+      background-color: #a02c4c;
       opacity: 0.8;
       border-radius: 9px;
       color: #fff;
@@ -97,7 +97,7 @@ main {
       background-color: #2f2f2f; }
       main .player.player--winner .name {
         font-weight: 700;
-        color: #c7365f; }
+        color: #a02c4c; }
     @media screen and (max-width: 768px) {
       main .player {
         height: 45.5vh;
@@ -145,12 +145,12 @@ main {
         top: 39.3rem; }
         @media screen and (min-width: 768px) and (max-width: 819px) {
           main .btn-container .btn.btn--roll {
-            top: 30.5rem; } }
+            top: 26.5rem; } }
       main .btn-container .btn.btn--hold {
         top: 46.1rem; }
         @media screen and (min-width: 768px) and (max-width: 819px) {
           main .btn-container .btn.btn--hold {
-            top: 35.5rem; } }
+            top: 32.5rem; } }
       main .btn-container .btn.btn--new, main .btn-container .btn.btn--roll, main .btn-container .btn.btn--hold {
         display: none; }
         @media screen and (min-width: 768px) {
@@ -167,7 +167,7 @@ main {
         display: flex;
         justify-content: space-evenly;
         align-content: center;
-        background-color: #c7365f; } }
+        background-color: #a02c4c; } }
   main .dice {
     position: absolute;
     left: 50%;

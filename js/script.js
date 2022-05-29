@@ -42,7 +42,7 @@ const init = function () {
 init();
 
 let btnNewPlaceholder, btnHoldPlaceholder, btnRollPlaceholder;
-let windowWidth = window.screen.width;
+let windowWidth = window.innerWidth;
 btnNewPlaceholder = windowWidth < 768 ? btnNewMobile : btnNew;
 btnHoldPlaceholder = windowWidth < 768 ? btnHoldMobile : btnHold;
 btnRollPlaceholder = windowWidth < 768 ? btnRollMobile : btnRoll;
