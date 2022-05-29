@@ -1,0 +1,24 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "The creation of this JavaScript Game is part of the Udemy course \"The Complete JavaScript Course 2022: From Zero to Expert!\"",
+  "main": "index.js",
+  "homepage": "https://ralitsavoronevska.github.io/pig-game",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralitsavoronevska/pig-game.git"
+  },
+  "author": "Ralitsa Voronevska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralitsavoronevska/pig-game/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-sass": "^7.0.1"
+  }
+}
