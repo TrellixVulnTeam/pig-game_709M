@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -145,12 +145,12 @@ main {
         top: 39.3rem; }
         @media screen and (min-width: 768px) and (max-width: 819px) {
           main .btn-container .btn.btn--roll {
-            top: 30.5rem; } }
+            top: 26.5rem; } }
       main .btn-container .btn.btn--hold {
         top: 46.1rem; }
         @media screen and (min-width: 768px) and (max-width: 819px) {
           main .btn-container .btn.btn--hold {
-            top: 35.5rem; } }
+            top: 32.5rem; } }
       main .btn-container .btn.btn--new, main .btn-container .btn.btn--roll, main .btn-container .btn.btn--hold {
         display: none; }
         @media screen and (min-width: 768px) {
