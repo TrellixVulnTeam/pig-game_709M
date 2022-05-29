@@ -64,13 +64,13 @@ main {
     main .player .score {
       font-size: 8rem;
       font-weight: 300;
-      color: #c7365f;
+      color: #a02c4c;
       margin-bottom: auto; }
       @media screen and (max-width: 768px) {
         main .player .score {
           font-size: 4rem; } }
     main .player .current {
-      background-color: #c7365f;
+      background-color: #a02c4c;
       opacity: 0.8;
       border-radius: 9px;
       color: #fff;
@@ -97,7 +97,7 @@ main {
       background-color: #2f2f2f; }
       main .player.player--winner .name {
         font-weight: 700;
-        color: #c7365f; }
+        color: #a02c4c; }
     @media screen and (max-width: 768px) {
       main .player {
         height: 45.5vh;
@@ -167,7 +167,7 @@ main {
         display: flex;
         justify-content: space-evenly;
         align-content: center;
-        background-color: #c7365f; } }
+        background-color: #a02c4c; } }
   main .dice {
     position: absolute;
     left: 50%;
