@@ -2,27 +2,29 @@
 
 The creation of this JavaScript Game is part of the Udemy course ["The Complete JavaScript Course 2022: From Zero to Expert!"](https://www.udemy.com/course/the-complete-javascript-course/)
 
+<img src="dist/img/pig-game-flowchart.png" />
+
 [Live Preview](https://ralitsavoronevska.github.io/pig-game/)
 
 [CodePen](https://codepen.io/ralitsavoronevska/pen/LYQQyBL)
 
 # Desktop Preview:
 
-<img src="dist/img/pig-game-desktop-preview-1.jpg" />
-<img src="dist/img/pig-game-desktop-preview-2.jpg" />
+<img src="dist/img/pig-game-desktop-preview-1.png" />
+<img src="dist/img/pig-game-desktop-preview-2.png" />
 
 # Tablet Landscape Preview:
 
-<img src="dist/img/pig-game-tablet-preview-landscape-1.jpg"/>
-<img src="dist/img/pig-game-tablet-preview-landscape-2.jpg"/>
+<img src="dist/img/pig-game-tablet-preview-landscape-1.png"/>
+<img src="dist/img/pig-game-tablet-preview-landscape-2.png"/>
 
 <table>
   <tr>
     <td colspan="2">Tablet Portrait Preview</td>
   </tr>
   <tr>
-    <td><img src="dist/img/pig-game-tablet-preview-portrait-1.jpg"></td>
-    <td><img src="dist/img/pig-game-tablet-preview-portrait-2.jpg"></td>
+    <td><img src="dist/img/pig-game-tablet-preview-portrait-1.png"></td>
+    <td><img src="dist/img/pig-game-tablet-preview-portrait-2.png"></td>
   </tr>
  </table>
 
@@ -31,8 +33,8 @@ The creation of this JavaScript Game is part of the Udemy course ["The Complete 
     <td colspan="2">Mobile Preview</td>
   </tr>
   <tr>
-    <td><img src="dist/img/pig-game-mobile-preview-1.jpg"></td>
-    <td><img src="dist/img/pig-game-mobile-preview-2.jpg"></td>
+    <td><img src="dist/img/pig-game-mobile-preview-1.png"></td>
+    <td><img src="dist/img/pig-game-mobile-preview-2.png"></td>
   </tr>
  </table>
 
@@ -59,15 +61,15 @@ The creation of this JavaScript Game is part of the Udemy course ["The Complete 
 # Chrome LightHouse Audit
 
 - Desktop:
-  <img src="dist/img/pig-game-desktop-LightHouse-Audit.jpg" />
+  <img src="dist/img/pig-game-desktop-LightHouse-Audit.png" />
 
 - Mobile:
-  <img src="dist/img/pig-game-mobile-LightHouse-Audit.jpg" />
+  <img src="dist/img/pig-game-mobile-LightHouse-Audit.png" />
 
 # PageSpeed Insights Results
 
 - Desktop:
-  <img src="dist/img/pig-game-PageSpeed-Insights-desktop.jpg" />
+  <img src="dist/img/pig-game-PageSpeed-Insights-desktop.png" />
 
 - Mobile:
-  <img src="dist/img/pig-game-PageSpeed-Insights-mobile.jpg" />
+  <img src="dist/img/pig-game-PageSpeed-Insights-mobile.png" />
